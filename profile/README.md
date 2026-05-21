@@ -1,6 +1,6 @@
 # GeniePod - Private home AI, built to live inside your home
 
-![GeniePod hero](/assets/genie-home-banner.png)
+![GeniePod hero](/assets/geniepod-home-banner.png)
 
 **GeniePod** is **open source home AI** built to live where it belongs: **in your home, not someone else's cloud**.
 
